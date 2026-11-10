@@ -41,37 +41,26 @@
 
 ## 🚀 Projects
 
-<div align="center">
+### 🎮 [games-for-english](https://github.com/thihaaung1751992/games-for-english)
+Browser-based English learning games, plain HTML/CSS/JS, organised by level.
 
-<a href="https://github.com/thihaaung1751992/games-for-english">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thihaaung1751992&repo=games-for-english&theme=radical&hide_border=true" alt="games-for-english" />
-</a>
-<a href="https://github.com/thihaaung1751992/shwequest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thihaaung1751992&repo=shwequest&theme=radical&hide_border=true" alt="shwequest" />
-</a>
-<br/>
-<a href="https://github.com/thihaaung1751992/tfest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thihaaung1751992&repo=tfest&theme=radical&hide_border=true" alt="tfest" />
-</a>
-<a href="https://github.com/thihaaung1751992/dbs-cbg-coo-office">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thihaaung1751992&repo=dbs-cbg-coo-office&theme=radical&hide_border=true" alt="dbs-cbg-coo-office" />
-</a>
+![Language](https://img.shields.io/github/languages/top/thihaaung1751992/games-for-english?style=for-the-badge&color=a855f7) ![Last commit](https://img.shields.io/github/last-commit/thihaaung1751992/games-for-english?style=for-the-badge&color=ec4899) ![Stars](https://img.shields.io/github/stars/thihaaung1751992/games-for-english?style=for-the-badge&color=06b6d4)
 
-</div>
+### 🏆 [shwequest](https://github.com/thihaaung1751992/shwequest)
+Quest web app with leaderboard, map and team pages, built with Next.js, Prisma and Tailwind.
 
-| Project | What it is |
-|---|---|
-| 🎮 [**games-for-english**](https://github.com/thihaaung1751992/games-for-english) | Browser-based English learning games, plain HTML/CSS/JS, organised by level |
-| 🏆 [**shwequest**](https://github.com/thihaaung1751992/shwequest) | Quest web app with leaderboard, map and team pages, built with Next.js, Prisma and Tailwind |
-| 🧪 [**tfest**](https://github.com/thihaaung1751992/tfest) | New project, coming soon |
-| 🏢 [**dbs-cbg-coo-office**](https://github.com/thihaaung1751992/dbs-cbg-coo-office) | New project, coming soon |
+![Language](https://img.shields.io/github/languages/top/thihaaung1751992/shwequest?style=for-the-badge&color=a855f7) ![Last commit](https://img.shields.io/github/last-commit/thihaaung1751992/shwequest?style=for-the-badge&color=ec4899) ![Stars](https://img.shields.io/github/stars/thihaaung1751992/shwequest?style=for-the-badge&color=06b6d4)
+
+### 🧪 [tfest](https://github.com/thihaaung1751992/tfest) · 🏢 [dbs-cbg-coo-office](https://github.com/thihaaung1751992/dbs-cbg-coo-office)
+New projects, coming soon.
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thihaaung1751992&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung1751992&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/thihaaung1751992?style=for-the-badge&logo=github&color=ec4899)
+![Repos](https://img.shields.io/badge/Public%20Repos-4-06b6d4?style=for-the-badge&logo=github)
+![Joined](https://img.shields.io/badge/Joined-May%202026-a855f7?style=for-the-badge&logo=github)
 
 </div>
 
